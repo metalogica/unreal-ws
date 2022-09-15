@@ -1,4 +1,6 @@
 ## Build
 ```
-cmake ../ "-DCMAKE_TOOLCHAIN_FILE=/Users/richardjarram/vcpkg/scripts/buildsystems/vcpkg.cmake"
+1) run `./build.sh` to create the make file.
+
+2) run `./compile.sh` to compile the app into an executable.
 ```
